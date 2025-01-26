@@ -1,5 +1,5 @@
 ## 👋 About Me  
-Hello! I'm ***Tejasvi Urknade***, a passionate **🌟 Software Developer** and final-year **🎓 Computer Science student**. I enjoy solving challenging problems, building intuitive web applications, and exploring cutting-edge technologies.
+Hello! I'm ***Tejasvi Urkande***, a passionate **🌟 Software Developer** and final-year **🎓 Computer Science student**. I enjoy solving challenging problems, building intuitive web applications, and exploring cutting-edge technologies.
 
 ---
 
